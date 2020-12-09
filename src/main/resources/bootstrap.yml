@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: ws-utils
+  cloud:
+    config:
+      uri: http://build.pucrs.br:8880/configuration-service
+      label: develop
