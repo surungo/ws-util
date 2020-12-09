@@ -111,11 +111,6 @@
 
     <repositories>
         <repository>
-            <id>maven-group</id>
-            <name>Maven PUCRS</name>
-            <url>http://poa01git01.pucrs.br:8081/repository/maven-group/</url>
-        </repository>
-        <repository>
             <id>spring-milestones</id>
             <name>Spring Milestones</name>
             <url>https://repo.spring.io/milestone</url>
