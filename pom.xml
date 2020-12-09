@@ -15,7 +15,7 @@
     <description>Service implements utils tools</description>
 
     <properties>
-        <java.version>11</java.version>
+        <java.version>8</java.version>
         <spring-cloud.version>Hoxton.M3</spring-cloud.version>
         <spring-swagger.version>2.9.2</spring-swagger.version>
     </properties>
